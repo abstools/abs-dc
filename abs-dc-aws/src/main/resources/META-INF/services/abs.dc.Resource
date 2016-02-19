@@ -1,0 +1,1 @@
+abs.dc.AwsResource
